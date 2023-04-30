@@ -1,3 +1,1 @@
-# C-Sharp
-C Sharp projects
-Prosta aplikacja wpf do generowania faktur
+Prosta aplikacja okienowa wpf napisana w języku c# do generowania faktur
