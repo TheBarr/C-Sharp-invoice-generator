@@ -1,0 +1,215 @@
+C:\Users\ADMIN\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\ADMIN\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\ADMIN\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\ADMIN\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\source\repos\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+C:\Users\ADMIN\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\ADMIN\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\ADMIN\source\repos\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\ADMIN\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\ADMIN\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\ADMIN\source\repos\WpfApp2\WpfApp2\obj\Debug\inputWindow.g.cs
+C:\Users\ADMIN\source\repos\WpfApp2\WpfApp2\obj\Debug\inputWindow.baml
+C:\Users\ADMIN\source\repos\project(2_okna)\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\ADMIN\source\repos\project(2_okna)\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\ADMIN\source\repos\project(2_okna)\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\ADMIN\source\repos\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\project(2_okna)\WpfApp2\obj\Debug\inputWindow.g.cs
+C:\Users\ADMIN\source\repos\project(2_okna)\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\source\repos\project(2_okna)\WpfApp2\obj\Debug\App.g.cs
+C:\Users\ADMIN\source\repos\project(2_okna)\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\ADMIN\source\repos\project(2_okna)\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\ADMIN\source\repos\project(2_okna)\WpfApp2\obj\Debug\inputWindow.baml
+C:\Users\ADMIN\source\repos\project(2_okna)\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\source\repos\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\ADMIN\source\repos\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\ADMIN\source\repos\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.pdb
+\\Mac\Home\Downloads\project2_okna\project(2_okna)\WpfApp2\bin\Debug\WpfApp2.exe.config
+\\Mac\Home\Downloads\project2_okna\project(2_okna)\WpfApp2\bin\Debug\WpfApp2.exe
+\\Mac\Home\Downloads\project2_okna\project(2_okna)\WpfApp2\bin\Debug\WpfApp2.pdb
+\\Mac\Home\Downloads\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\project2_okna\project(2_okna)\WpfApp2\obj\Debug\inputWindow.g.cs
+\\Mac\Home\Downloads\project2_okna\project(2_okna)\WpfApp2\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Downloads\project2_okna\project(2_okna)\WpfApp2\obj\Debug\App.g.cs
+\\Mac\Home\Downloads\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+\\Mac\Home\Downloads\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+\\Mac\Home\Downloads\project2_okna\project(2_okna)\WpfApp2\obj\Debug\inputWindow.baml
+\\Mac\Home\Downloads\project2_okna\project(2_okna)\WpfApp2\obj\Debug\MainWindow.baml
+\\Mac\Home\Downloads\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.g.resources
+\\Mac\Home\Downloads\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+\\Mac\Home\Downloads\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.exe
+\\Mac\Home\Downloads\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\ADMIN\Desktop\project2_okna\project(2_okna)\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\ADMIN\Desktop\project2_okna\project(2_okna)\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\ADMIN\Desktop\project2_okna\project(2_okna)\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\ADMIN\Desktop\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\project2_okna\project(2_okna)\WpfApp2\obj\Debug\inputWindow.g.cs
+C:\Users\ADMIN\Desktop\project2_okna\project(2_okna)\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\project2_okna\project(2_okna)\WpfApp2\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\project2_okna\project(2_okna)\WpfApp2\obj\Debug\inputWindow.baml
+C:\Users\ADMIN\Desktop\project2_okna\project(2_okna)\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\ADMIN\Desktop\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\ADMIN\Desktop\project2_okna\project(2_okna)\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\inputWindow.g.cs
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\inputWindow.baml
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.pdb
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.exe.config
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.exe
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.pdb
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\obj\Debug\inputWindow.g.cs
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\obj\Debug\inputWindow.baml
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.g.resources
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.exe
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.pdb
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\bin\Debug\BouncyCastle.Crypto.dll
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\bin\Debug\itextsharp.dll
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\bin\Debug\itextsharp.xml
+\\Mac\Home\Desktop\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\obj\Debug\inputWindow.g.cs
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\bin\Debug\itextsharp.dll
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\bin\Debug\itextsharp.xml
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\obj\Debug\inputWindow.baml
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku (1)\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.CopyComplete
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.exe.config
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.exe
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.pdb
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\bin\Debug\BouncyCastle.Crypto.dll
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\bin\Debug\itextsharp.dll
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\bin\Debug\itextsharp.xml
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\obj\Debug\inputWindow.g.cs
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\obj\Debug\App.g.cs
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\obj\Debug\inputWindow.baml
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\obj\Debug\MainWindow.baml
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.g.resources
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.CopyComplete
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.exe
+\\Mac\Home\Downloads\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\bin\Debug\itextsharp.dll
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\bin\Debug\itextsharp.xml
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\inputWindow.g.cs
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\inputWindow.baml
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\bin\Debug\itextsharp.dll
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\bin\Debug\itextsharp.xml
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\inputWindow.g.cs
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\App.g.cs
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\inputWindow.baml
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.CopyComplete
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\barte\Desktop\Projekt C#\projekt_dane_z_pliku_2\projekt_dane_z_pliku_2\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\bin\Debug\itextsharp.dll
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\bin\Debug\itextsharp.xml
+C:\Users\ADMIN\Desktop\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.CopyComplete
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.exe.config
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.exe
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\bin\Debug\WpfApp2.pdb
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\bin\Debug\BouncyCastle.Crypto.dll
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\bin\Debug\itextsharp.dll
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\bin\Debug\itextsharp.xml
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\inputWindow.g.cs
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\App.g.cs
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\inputWindow.baml
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\MainWindow.baml
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.g.resources
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.csproj.CopyComplete
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.exe
+\\Mac\Home\Pictures\projekt_dane_z_pliku\projekt_dane_z_pliku\WpfApp2\obj\Debug\WpfApp2.pdb

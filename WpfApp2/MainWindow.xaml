@@ -1,0 +1,50 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="Generowanie faktury" Height="800" Width="1000">
+    <Grid>
+        <Label Content="Dane sprzedawcy" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="31" Width="141" FontSize="16"/>
+        <Label Content="Imię:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Height="24" Width="36"/>
+        <Label Content="Nazwisko:" HorizontalAlignment="Left" Margin="10,65,0,0" VerticalAlignment="Top" Height="24" Width="62" RenderTransformOrigin="1.789,2.3"/>
+        <Label Content="NIP:" HorizontalAlignment="Left" Margin="10,89,0,0" VerticalAlignment="Top" Height="24" Width="36"/>
+        <Label Content="Ulica:" HorizontalAlignment="Left" Margin="10,113,0,0" VerticalAlignment="Top" Height="24" Width="47"/>
+        <Label Content="Miasto, kod pocztowy:" HorizontalAlignment="Left" Margin="10,137,0,0" VerticalAlignment="Top" Height="24" Width="129"/>
+        <TextBox x:Name="sImie" HorizontalAlignment="Left" Height="18" Margin="51,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="sNazwisko" HorizontalAlignment="Left" Height="18" Margin="77,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="114"/>
+        <TextBox PreviewTextInput="NumberValidationTextBox" x:Name="sNIP" HorizontalAlignment="Left" Height="18" Margin="51,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="sUlica" HorizontalAlignment="Left" Height="18" Margin="57,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="sMiasto" HorizontalAlignment="Left" Height="18" Margin="139,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Dane kupującego" HorizontalAlignment="Left" Margin="316,10,0,0" VerticalAlignment="Top" Height="31" Width="141" FontSize="16"/>
+        <Label Content="Imię:" HorizontalAlignment="Left" Margin="316,41,0,0" VerticalAlignment="Top" Height="24" Width="36"/>
+        <Label Content="Nazwisko:" HorizontalAlignment="Left" Margin="316,65,0,0" VerticalAlignment="Top" Height="24" Width="62" RenderTransformOrigin="1.789,2.3"/>
+        <Label Content="NIP:" HorizontalAlignment="Left" Margin="316,89,0,0" VerticalAlignment="Top" Height="24" Width="36"/>
+        <Label Content="Ulica:" HorizontalAlignment="Left" Margin="316,113,0,0" VerticalAlignment="Top" Height="24" Width="47"/>
+        <Label Content="Miasto, kod pocztowy:" HorizontalAlignment="Left" Margin="316,137,0,0" VerticalAlignment="Top" Height="24" Width="129"/>
+        <TextBox x:Name="kImie" HorizontalAlignment="Left" Height="18" Margin="357,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="kNazwisko" HorizontalAlignment="Left" Height="18" Margin="382,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="114"/>
+        <TextBox PreviewTextInput="NumberValidationTextBox" x:Name="kNIP" HorizontalAlignment="Left" Height="18" Margin="357,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="kUlica" HorizontalAlignment="Left" Height="18" Margin="362,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="kMiasto" HorizontalAlignment="Left" Height="18" Margin="445,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <DataGrid x:Name="dg" Margin="10,179,11,55.5" IsHitTestVisible="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Lp." Width="25" Binding="{Binding lp}"/>
+                <DataGridTextColumn Header="Nazwa" Width="*" Binding="{Binding nazwa}"/>
+                <DataGridTextColumn Header="Ilość" Width="*" Binding="{Binding ilosc}"/>
+                <DataGridTextColumn Header="Cena Netto" Width="*" Binding="{Binding cena_netto}"/>
+                <DataGridTextColumn Header="Stawka VAT" Width="*" Binding="{Binding stawka_vat}"/>
+                <DataGridTextColumn Header="Wartosc Netto" Width="*" Binding="{Binding wartosc_netto}"/>
+                <DataGridTextColumn Header="Wartosc VAT" Width="*" Binding="{Binding wartosc_vat}"/>
+                <DataGridTextColumn Header="Wartosc Brutto" Width="*" Binding="{Binding wartosc_brutto}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="bt1" Content="Dodaj produkt" HorizontalAlignment="Left" Margin="870,65,0,0" VerticalAlignment="Top" Width="100" Click="bt1_Click" Height="28"/>
+        <Button x:Name="bt2" Content="Wczytaj z pliku" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="870,22,0,0" Click="bt2_Click" Height="28"/>
+        <Button x:Name="bt3" Content="Suma" HorizontalAlignment="Left" Margin="754,722,0,0" VerticalAlignment="Top" Width="100" Click="bt3_Click" Height="28"/>
+        <Button x:Name="bt4" Content="Zapisz do PDF" HorizontalAlignment="Left" Margin="870,722,0,0" VerticalAlignment="Top" Width="100" Click="bt4_Click" Height="28"/>
+        <Button x:Name="bt5" Content="Wyczyść" HorizontalAlignment="Left" Margin="870,109,0,0" VerticalAlignment="Top" Width="100" Height="28" Click="bt5_Click"/>
+    </Grid>
+</Window>
